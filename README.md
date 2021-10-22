@@ -6,12 +6,21 @@ https://dl.acm.org
 
 
 Programming
+
 Computer Architecture
+
 Algorithms and Data Structures
+
 Mathematics for Computer Science
+
 Operating Systems
+
 Computer Networking
+
 Databases
+
 Languages and Compilers
+
 Distributed Systems
+
 
