@@ -5,23 +5,23 @@ https://www.acm.org
 https://dl.acm.org
 
 
-Programming
+* Programming
 
-Computer Architecture
+* Computer Architecture
 
-Algorithms and Data Structures
+* Algorithms and Data Structures
 
-Mathematics for Computer Science
+* Mathematics for Computer Science
 
-Operating Systems
+* Operating Systems
 
-Computer Networking
+* Computer Networking
 
-Databases
+* Databases
 
-Languages and Compilers
+* Languages and Compilers
 
-Distributed Systems
+* Distributed Systems
 
 
 https://wiki.osdev.org/Main_Page
