@@ -4,6 +4,8 @@ https://www.acm.org
 
 https://dl.acm.org
 
+https://www.reddit.com/r/learnprogramming/wiki/faq#wiki_how_do_i_learn_topics_covered_by_a_typical_computer_science_degree.3F
+
 
 * Programming
 
